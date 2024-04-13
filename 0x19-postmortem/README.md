@@ -1,4 +1,8 @@
+Postmortem of E-commerce site
+
 We are talking tonight about an issue happened in an e-commerce site. As the internet is used everyday and becomes an important part of our lifes now. And any issue happened in a web application like this, it will affect large portion of people.
+
+![image](https://github.com/KhloudIbrahem/alx-system_engineering-devops/assets/132370943/85496bab-3b3f-4005-a67e-39e65f348891)
 
 
 Issue Summary:
